@@ -1,0 +1,18 @@
+#nav, .cols, .home .icons {overflow:hidden;height:1%;}
+
+* html #nav, * html .cols, * html .home .icons {height:1%;}
+
+* html .centre{
+  width:940px;
+}
+
+* html #container{
+  position:static;
+}
+
+* html #ft{
+  position:static;
+  text-align:left;
+  margin-left:0;
+}
+
